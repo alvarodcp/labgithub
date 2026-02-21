@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.2.6">
+  <diagram name="Page-1" id="we0L2ofFaTpXaIUic3AF">
+    <mxGraphModel dx="1188" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QHxXhPrJsHe9iyQGTRJs-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="Inicio" vertex="1">
+          <mxGeometry height="100" width="100" x="360" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QHxXhPrJsHe9iyQGTRJs-17" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="Fin" vertex="1">
+          <mxGeometry height="100" width="100" x="350" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="QHxXhPrJsHe9iyQGTRJs-18" edge="1" parent="1" source="QHxXhPrJsHe9iyQGTRJs-17" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.578;exitY=0.01;exitDx=0;exitDy=0;exitPerimeter=0;" target="QHxXhPrJsHe9iyQGTRJs-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="270" y="390" as="sourcePoint" />
+            <mxPoint x="320" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QHxXhPrJsHe9iyQGTRJs-2" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Leer examen_uno,&amp;nbsp;&lt;div&gt;examen_dos,&lt;/div&gt;&lt;div&gt;examen_tres&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="210" x="305" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="QHxXhPrJsHe9iyQGTRJs-14" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" value="promedio = (examen_uno&lt;div&gt;+ examen_dos&lt;/div&gt;&lt;div&gt;+examen_tres) / 3&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="285" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="QHxXhPrJsHe9iyQGTRJs-16" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Imprimir&amp;nbsp;&lt;div&gt;promedio&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="360" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="QHxXhPrJsHe9iyQGTRJs-19" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="" vertex="1">
+          <mxGeometry height="110" width="290" x="250" y="820" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
